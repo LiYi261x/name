@@ -1,0 +1,6 @@
+operator 操作者
+expression 表达 表达式 表情
+identifier 识别码
+target 目标
+generation 产生 生殖
+modification 修改
